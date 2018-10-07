@@ -2,7 +2,7 @@
 
 #### HackerRank
 - [Arrays](src/main/java/hackerrank/arrays) 
-  - [Hourglass Sum](/src/main/java/hackerrank/arrays/Hourglass.java)
-
+  - [Hourglass Sum](/src/main/java/hackerrank/arrays/HourglassSum.java)
+  - [Rotate Left](/src/main/java/hackerrank/arrays/RotateLeft.java)
 
 

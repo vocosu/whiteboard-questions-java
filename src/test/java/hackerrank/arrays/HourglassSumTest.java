@@ -3,7 +3,7 @@ package hackerrank.arrays;
 import org.junit.Test;
 import org.junit.Assert;
 
-public class HourglassTest {
+public class HourglassSumTest {
 
     @Test
     public void testHourGlassSum() {
@@ -15,8 +15,9 @@ public class HourglassTest {
                 {0, 0, 0, 2, 0, 0},
                 {0, 0, 1, 2, 4, 0},
         };
+        int expected = 19;
+        int actual = new hackerrank.arrays.HourglassSum().hourglassSum(hourglass);
 
-        int sum = new HackerRank.Arrays.Hourglass().hourglassSum(hourglass);
-        Assert.assertEquals(sum, 19);
+        Assert.assertEquals(actual, expected);
     }
 }

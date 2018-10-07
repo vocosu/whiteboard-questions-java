@@ -1,4 +1,4 @@
-package HackerRank.Arrays;
+package hackerrank.arrays;
 /*
 Difficulty: Easy
 https://www.hackerrank.com/challenges/2d-array/problem
@@ -21,7 +21,7 @@ Sample Input (2D int array)
 Sample Output (int)
 19
 */
-public class Hourglass {
+public class HourglassSum {
     /*
     O(n) time complexity
     There are 16 hourglasses in the 2D array.
