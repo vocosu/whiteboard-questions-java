@@ -1,0 +1,10 @@
+# User-specific stuff
+.idea/workspace.xml
+
+# Gradle
+.idea/gradle.xml
+.gradle/
+build/
+
+# IntelliJ
+out/
