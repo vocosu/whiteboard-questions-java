@@ -7,4 +7,5 @@
 - [String Manipulation](src/main/java/hackerrank/stringmanipulation)
   - [Alternating Characters](src/main/java/hackerrank/stringmanipulation/AlternatingCharacters.java)
   - [Making Anagrams](src/main/java/hackerrank/stringmanipulation/MakingAnagrams.java)
-
+- [Recursion](src/main/java/hackerrank/recursion)
+  - [Fibonacci](src/main/java/hackerrank/recursion/Fibonacci.java)
