@@ -4,6 +4,7 @@
 - [Arrays](src/main/java/hackerrank/arrays) 
   - [Hourglass Sum](/src/main/java/hackerrank/arrays/HourglassSum.java)
   - [Rotate Left](/src/main/java/hackerrank/arrays/RotateLeft.java)
-- [String Manipulation](src/main/java/hackerrank/stringmanipulation/AlternatingCharacters.java)
+- [String Manipulation](src/main/java/hackerrank/stringmanipulation)
+  - [Alternating Characters](src/main/java/hackerrank/stringmanipulation/AlternatingCharacters.java)
 
 
