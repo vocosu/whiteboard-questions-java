@@ -23,16 +23,15 @@ public class MinimumSwapsTwo {
     */
     public int minimumSwapsTwo(int[] arr) {
         int counter = 0;
-        boolean[] visited = new boolean[arr.length];
+        boolean[] visited = new boolean[arr.length]; // Initialized to false by default
         Map<Integer, Integer> hash = new HashMap<>();
 
         for (int i = 0; i < arr.length; i++) {
             hash.put(arr[i], i);
-            visited[i] = false;
         }
 
         Object[] keys = hash.keySet().toArray();
-        Arrays.sort(keys);
+        Arrays.sort(keys); // Sort keys in ascending order
 
         for (int i = 0; i < arr.length; i++) {
             if (visited[i] || hash.get(keys[i]) == i) {
