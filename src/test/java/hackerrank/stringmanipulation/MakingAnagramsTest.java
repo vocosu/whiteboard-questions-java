@@ -6,7 +6,7 @@ import org.junit.Assert;
 public class MakingAnagramsTest {
 
     @Test
-    public void makeAnagrams() {
+    public void makeAnagramsTestOne() {
         String a = "cde";
         String b = "abc";
         int expected = 4;

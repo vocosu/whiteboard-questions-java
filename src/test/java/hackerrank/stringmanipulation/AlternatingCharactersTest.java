@@ -6,7 +6,7 @@ import org.junit.Assert;
 public class AlternatingCharactersTest {
 
     @Test
-    public void alternatingCharactersOne() {
+    public void alternatingCharactersTestOne() {
         String s = "AAAA";
         int expected = 3;
         int actual = new hackerrank.stringmanipulation.AlternatingCharacters().alternatingCharacters(s);
@@ -15,7 +15,7 @@ public class AlternatingCharactersTest {
     }
 
     @Test
-    public void alternatingCharactersTwo() {
+    public void alternatingCharactersTestTwo() {
         String s = "BBBBB";
         int expected = 4;
         int actual = new hackerrank.stringmanipulation.AlternatingCharacters().alternatingCharacters(s);
@@ -24,7 +24,7 @@ public class AlternatingCharactersTest {
     }
 
     @Test
-    public void alternatingCharactersThree() {
+    public void alternatingCharactersTestThree() {
         String s = "ABABABAB";
         int expected = 0;
         int actual = new hackerrank.stringmanipulation.AlternatingCharacters().alternatingCharacters(s);

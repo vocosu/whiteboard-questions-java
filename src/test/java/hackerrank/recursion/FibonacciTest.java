@@ -6,21 +6,21 @@ import org.junit.Assert;
 public class FibonacciTest {
 
     @Test
-    public void fibonacciRecursive() {
+    public void fibonacciRecursiveTestOne() {
         int expected = 13;
         int actual = new hackerrank.recursion.Fibonacci().fibonacciRecursive(7);
         Assert.assertEquals(actual, expected);
     }
 
     @Test
-    public void fibonacciCached() {
+    public void fibonacciCachedTestOne() {
         int expected = 5;
         int actual = new hackerrank.recursion.Fibonacci().fibonacciCached(5);
         Assert.assertEquals(actual, expected);
     }
 
     @Test
-    public void fibonacciIterative() {
+    public void fibonacciIterativeTestOne() {
         int expected = 8;
         int actual = new hackerrank.recursion.Fibonacci().fibonacciIterative(6);
         Assert.assertEquals(actual, expected);

@@ -6,7 +6,7 @@ import org.junit.Assert;
 public class RotateLeftTest {
 
     @Test
-    public void rotateLeftOne() {
+    public void rotateLeftOneTestOne() {
         int[] arr = {1, 2, 3, 4, 5};
         int rotations = 4;
         int[] expected = {5, 1, 2, 3, 4};
@@ -16,7 +16,7 @@ public class RotateLeftTest {
     }
 
     @Test
-    public void rotateLeftTwo() {
+    public void rotateLeftTwoTestOne() {
         int[] arr = {1, 2, 3, 4, 5};
         int rotations = 4;
         int[] expected = {5, 1, 2, 3, 4};

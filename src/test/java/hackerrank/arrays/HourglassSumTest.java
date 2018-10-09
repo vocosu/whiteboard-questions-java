@@ -6,7 +6,7 @@ import org.junit.Assert;
 public class HourglassSumTest {
 
     @Test
-    public void hourGlassSum() {
+    public void hourGlassSumTestOne() {
         int[][] hourglass = {
                 {1, 1, 1, 0, 0, 0},
                 {0, 1, 0, 0, 0, 0},

@@ -10,3 +10,5 @@
   - [Making Anagrams](src/main/java/hackerrank/stringmanipulation/MakingAnagrams.java)
 - [Recursion](src/main/java/hackerrank/recursion)
   - [Fibonacci](src/main/java/hackerrank/recursion/Fibonacci.java)
+- [Stacks and Queues](src/main/java/hackerrank/stacksandqueues)
+  - [Balanced Brackets](src/main/java/hackerrank/stacksandqueues/BalancedBrackets.java)

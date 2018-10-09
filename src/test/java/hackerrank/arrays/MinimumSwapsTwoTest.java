@@ -14,7 +14,7 @@ public class MinimumSwapsTwoTest {
     }
 
     @Test
-    public void minimumSwapsTestTwo() {
+    public void minimumSwapsTwoTestTwo() {
         int[] arr = {4, 3, 1, 2};
         int actual = new hackerrank.arrays.MinimumSwapsTwo().minimumSwapsTwo(arr);
         int expected = 3;
