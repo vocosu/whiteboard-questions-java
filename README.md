@@ -12,3 +12,4 @@
   - [Fibonacci](src/main/java/hackerrank/recursion/Fibonacci.java) (Easy)
 - [Stacks and Queues](src/main/java/hackerrank/stacksandqueues)
   - [Balanced Brackets](src/main/java/hackerrank/stacksandqueues/BalancedBrackets.java) (Medium)
+  - [A Tale of Two Stacks](src/main/java/hackerrank/stacksandqueues/ATaleOfTwoStacks.java) (Medium)
