@@ -13,3 +13,5 @@
 - [Stacks and Queues](src/main/java/hackerrank/stacksandqueues)
   - [Balanced Brackets](src/main/java/hackerrank/stacksandqueues/BalancedBrackets.java) (Medium)
   - [A Tale of Two Stacks](src/main/java/hackerrank/stacksandqueues/ATaleOfTwoStacks.java) (Medium)
+- [Dictionaries and Hashmaps](src/main/java/hackerrank/dictionariesandhashmaps)
+  - [Balanced Brackets](src/main/java/hackerrank/dictionariesandhashmaps/TwoStrings.java) (Easy)
