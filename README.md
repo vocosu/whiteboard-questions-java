@@ -15,6 +15,7 @@
   - [A Tale of Two Stacks](src/main/java/hackerrank/stacksandqueues/ATaleOfTwoStacks.java) (Medium)
 - [Dictionaries and Hashmaps](src/main/java/hackerrank/dictionariesandhashmaps)
   - [Two Strings](src/main/java/hackerrank/dictionariesandhashmaps/TwoStrings.java) (Easy)
+  - [Ransom Note](src/main/java/hackerrank/dictionariesandhashmaps/RansomNote.java) (Easy)
 - [Linked Lists](src/main/java/hackerrank/linkedlists)
   - [Insert Node at Position](src/main/java/hackerrank/linkedlists/InsertNodeAtPosition.java) (Easy)
   - [Detect a Cycle](src/main/java/hackerrank/linkedlists/DetectACycle.java) (Easy)
