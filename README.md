@@ -16,4 +16,5 @@
 - [Dictionaries and Hashmaps](src/main/java/hackerrank/dictionariesandhashmaps)
   - [Two Strings](src/main/java/hackerrank/dictionariesandhashmaps/TwoStrings.java) (Easy)
 - [Trees](src/main/java/hackerrank/trees)
-  - [Two Strings](src/main/java/hackerrank/trees/HeightOfABinaryTree.java) (Easy)
+  - [Height of a Binary Tree](src/main/java/hackerrank/trees/HeightOfABinaryTree.java) (Easy)
+  - [Lowest Common Ancestor](src/main/java/hackerrank/trees/LowestCommonAncestor.java) (Easy)

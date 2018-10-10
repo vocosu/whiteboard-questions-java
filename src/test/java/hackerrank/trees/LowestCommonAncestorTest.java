@@ -4,7 +4,7 @@ import hackerrank.TreeNode;
 import org.junit.Test;
 import org.junit.Assert;
 
-public class HeightOfABinaryTreeTest {
+public class LowestCommonAncestorTest {
 
     /*
             5
@@ -25,18 +25,18 @@ public class HeightOfABinaryTreeTest {
     }
 
     @Test
-    public void heightRecursiveTestOne() {
-        TreeNode root = setUpTreeOne();
-        int actual = new hackerrank.trees.HeightOfABinaryTree().heightRecursive(root);
-        int expected = 2;
+    public void lcaRecursiveTestOne() {
+        TreeNode node = setUpTreeOne();
+        int actual = new hackerrank.trees.LowestCommonAncestor().lcaRecursive(node, 1, 4).data;
+        int expected = 3;
         Assert.assertEquals(expected, actual);
     }
 
     @Test
-    public void heightIterativeTestOne() {
-        TreeNode root = setUpTreeOne();
-        int actual = new hackerrank.trees.HeightOfABinaryTree().heightIterative(root);
-        int expected = 2;
+    public void lcaIterativeTestOne() {
+        TreeNode node = setUpTreeOne();
+        int actual = new hackerrank.trees.LowestCommonAncestor().lcaRecursive(node, 1, 4).data;
+        int expected = 3;
         Assert.assertEquals(expected, actual);
     }
 }
