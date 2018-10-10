@@ -15,7 +15,7 @@ public class InsertNodeAtPositionTest {
     }
 
     @Test
-    public void insertNodeAtPosition() {
+    public void insertNodeAtPositionTestOne() {
         SinglyLinkedListNode head = createList();
         SinglyLinkedListNode actual = new hackerrank.linkedlists.InsertNodeAtPosition().insertNodeAtPosition(head, 1, 2);
         // 16 -> 13 -> 1 -> 7
