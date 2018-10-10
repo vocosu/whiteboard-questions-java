@@ -15,3 +15,5 @@
   - [A Tale of Two Stacks](src/main/java/hackerrank/stacksandqueues/ATaleOfTwoStacks.java) (Medium)
 - [Dictionaries and Hashmaps](src/main/java/hackerrank/dictionariesandhashmaps)
   - [Two Strings](src/main/java/hackerrank/dictionariesandhashmaps/TwoStrings.java) (Easy)
+- [Trees](src/main/java/hackerrank/trees)
+  - [Two Strings](src/main/java/hackerrank/trees/HeightOfABinaryTree.java) (Easy)
