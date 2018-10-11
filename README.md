@@ -23,3 +23,4 @@
 - [Trees](src/main/java/hackerrank/trees)
   - [Height of a Binary Tree](src/main/java/hackerrank/trees/HeightOfABinaryTree.java) (Easy)
   - [Lowest Common Ancestor](src/main/java/hackerrank/trees/LowestCommonAncestor.java) (Easy)
+  - [Is This a Binary Search Tree?](src/main/java/hackerrank/trees/IsBinarySearchTree.java) (Medium)
