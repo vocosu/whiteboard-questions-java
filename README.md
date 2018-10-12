@@ -20,6 +20,7 @@
 - [Linked Lists](src/main/java/hackerrank/linkedlists)
   - [Insert Node at Position](src/main/java/hackerrank/linkedlists/InsertNodeAtPosition.java) (Easy)
   - [Detect a Cycle](src/main/java/hackerrank/linkedlists/DetectACycle.java) (Easy)
+  - [Find Merge Point of Two Lists](src/main/java/hackerrank/linkedlists/FindMergeNode.java) (Easy)
 - [Trees](src/main/java/hackerrank/trees)
   - [Height of a Binary Tree](src/main/java/hackerrank/trees/HeightOfABinaryTree.java) (Easy)
   - [Lowest Common Ancestor](src/main/java/hackerrank/trees/LowestCommonAncestor.java) (Easy)
