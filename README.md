@@ -10,6 +10,7 @@
   - [Making Anagrams](src/main/java/hackerrank/stringmanipulation/MakingAnagrams.java) (Easy)
 - [Recursion](src/main/java/hackerrank/recursion)
   - [Fibonacci](src/main/java/hackerrank/recursion/Fibonacci.java) (Easy)
+  - [Davis' Staircase](src/main/java/hackerrank/recursion/DavisStaircase.java) (Medium)
 - [Stacks and Queues](src/main/java/hackerrank/stacksandqueues)
   - [Balanced Brackets](src/main/java/hackerrank/stacksandqueues/BalancedBrackets.java) (Medium)
   - [A Tale of Two Stacks](src/main/java/hackerrank/stacksandqueues/ATaleOfTwoStacks.java) (Medium)
