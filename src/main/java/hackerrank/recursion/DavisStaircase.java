@@ -1,7 +1,5 @@
 package hackerrank.recursion;
 
-import java.util.Map;
-
 /*
 Difficulty: Medium
 https://www.hackerrank.com/challenges/ctci-recursive-staircase/problem
