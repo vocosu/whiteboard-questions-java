@@ -1,6 +1,6 @@
 # Collection of whiteboard questions done in Java
 
-#### HackerRank
+#### HackerRank - The HackerRank Interview Preparation Kit (19/69 solved)
 - [Arrays](src/main/java/hackerrank/arrays) 
   - [Hourglass Sum](/src/main/java/hackerrank/arrays/HourglassSum.java) (Easy)
   - [Rotate Left](/src/main/java/hackerrank/arrays/RotateLeft.java) (Easy)
